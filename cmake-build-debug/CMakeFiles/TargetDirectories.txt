@@ -1,0 +1,3 @@
+C:/Users/kthao/Desktop/FresnoFantasy_v3/FresnoFantasy_v3/cmake-build-debug/CMakeFiles/FresnoFantasy_v3.dir
+C:/Users/kthao/Desktop/FresnoFantasy_v3/FresnoFantasy_v3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kthao/Desktop/FresnoFantasy_v3/FresnoFantasy_v3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
